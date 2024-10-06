@@ -1,0 +1,22 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product {
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 10px;
+  width: 200px;
+}
+
+.cart {
+  margin-top: 20px;
+  border-top: 2px solid #ccc;
+  padding-top: 10px;
+} 
